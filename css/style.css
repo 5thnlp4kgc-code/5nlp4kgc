@@ -568,3 +568,16 @@ pre code {
         max-width: 100%;
     }
 }
+
+/* Passed deadlines */
+.date-passed {
+    opacity: 0.6;
+}
+
+.timeline-card.date-passed:hover {
+    opacity: 0.85;
+}
+
+.date-passed s {
+    text-decoration-thickness: 1.5px;
+}
