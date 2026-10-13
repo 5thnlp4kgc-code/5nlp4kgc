@@ -37,3 +37,7 @@ build/
 
 # Dependencies
 vendor/
+
+# Workshop program source documents
+NLP4KGC_2026_Workshop_Program.docx
+NLP4KGC_2026_Workshop_Program.pdf
